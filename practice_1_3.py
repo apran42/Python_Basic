@@ -9,6 +9,7 @@ print(not False)
 print(not (5 > 10))
 
 # 결과
+
 # False
 # True
 # True
