@@ -4,12 +4,12 @@
 
 * ### **Day 1**
   * #### 2023 / 01 / 07 _05 : 12 ~ 05 : 35_ 
-  * #### 영상 → **_[00 : 00 : 00](https://youtu.be/kWiCuklohdY?t=0) ~ [00 : 15 : 20](https://youtu.be/kWiCuklohdY?t=920)_**
+  * #### 영상 → **_[00 : 00 : 00](https://youtu.be/kWiCuklohdY?t=0) ~ [00 : 15 : 03](https://youtu.be/kWiCuklohdY?t=903)_**
 
 * ### **Day 2**
   * #### 2023 / 01 / 08 _02 : 07 ~ 04 : 03_
-  * #### 영상 → **_[00 : 15 : 20](https://youtu.be/kWiCuklohdY?t=920) ~ [01 : 22 : 30](https://youtu.be/kWiCuklohdY?t=4950)_**
+  * #### 영상 → **_[00 : 15 : 03](https://youtu.be/kWiCuklohdY?t=903) ~ [01 : 22 : 29](https://youtu.be/kWiCuklohdY?t=4949)_**
 
 * ### **Day 3**
   * #### 2023 / 01 / 09 _01 : 36 ~ 04 : 02_ 
-  * #### 영상 → **_[01 : 22 : 30](https://youtu.be/kWiCuklohdY?t=4950) ~ [02 : 37 : 48](https://youtu.be/kWiCuklohdY?t=9468)**
+  * #### 영상 → **_[01 : 22 : 29](https://youtu.be/kWiCuklohdY?t=4949) ~ [02 : 37 : 48](https://youtu.be/kWiCuklohdY?t=9468)_**
