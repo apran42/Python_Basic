@@ -1,5 +1,3 @@
-# while
-
 customer = "토르"
 idx = 5
 while idx >=1:
