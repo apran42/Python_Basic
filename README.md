@@ -12,4 +12,4 @@
 
 * ### **Day 3**
   * #### 2023 / 01 / 09 _01 : 36 ~ 04 : 02_ 
-  * #### 영상 → **_[01 : 22 : 30](https://youtu.be/kWiCuklohdY?t=4950) ~ [02 : 37 : 49](https://youtu.be/kWiCuklohdY?t=9469)_**
+  * #### 영상 → **_[01 : 22 : 30](https://youtu.be/kWiCuklohdY?t=4950) ~ [02 : 37 : 48](https://youtu.be/kWiCuklohdY?t=9468)**
