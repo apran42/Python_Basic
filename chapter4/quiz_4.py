@@ -32,4 +32,4 @@ chicken = sample(comment, 1)
 comment.remove(chicken[0])
 coffee = sample(comment, 3)
 
-print(f" -- 당첨자 발표 -- \n 치킨 당첨자 : {chicken}\n 커피 당첨자 : {coffee}\n -- 당첨 축하합니다 --")
+print(f" -- 당첨자 발표 -- \n 치킨 당첨자 : {chicken[0]}\n 커피 당첨자 : {coffee[0:]}\n -- 당첨 축하합니다 --")
