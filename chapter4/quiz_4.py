@@ -24,10 +24,7 @@ print(sample(lst, 1))
 '''
 
 from random import *
-comment = []
-
-for i in range(1, 21):
-    comment.append(i)
+comment = list(range(1, 21))
 
 shuffle(comment)
 chicken = sample(comment, 1)
