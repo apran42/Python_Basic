@@ -24,6 +24,7 @@ print(sample(lst, 1))
 '''
 
 from random import *
+
 comment = list(range(1, 21))
 
 shuffle(comment)
