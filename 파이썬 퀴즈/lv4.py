@@ -41,6 +41,7 @@ while True:
             if word[i] == letter:  # 받은 알파벳의 해당하는 인덱스값으로 answer 배열에 알파벳 저장
                 answer[i] = letter
         if ''.join(answer) == word:  # answer배열(단어)과 word가 일치
+            print("\n"+' '.join(answer))
             print("Success!!")
             break
         else:
