@@ -19,5 +19,5 @@
   * #### 영상 → **_[02 : 37 : 48](https://youtu.be/kWiCuklohdY?t=9468) ~ [03 : 30 : 20](https://youtu.be/kWiCuklohdY?t=12620)_**
 
 * ### **Day 5**
-  * #### 2023 / 01 / 16 _00 : 09 ~ _ 
-  * #### 영상 → **_[03 : 30 : 20](https://youtu.be/kWiCuklohdY?t=12620) ~ [00 : 00: 00]()_**
+  * #### 2023 / 01 / 16 _00 : 09 ~ 04 : 42_ 
+  * #### 영상 → **_[03 : 30 : 20](https://youtu.be/kWiCuklohdY?t=12620) ~ [06 : 01: 27](https://youtu.be/kWiCuklohdY?t=21687)_**
